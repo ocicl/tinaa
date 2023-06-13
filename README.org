@@ -1,0 +1,10 @@
+* tinaa
+
+Tinaa is a flexible and general purpose Lisp documentation system.
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/gwkkwg/tinaa.git   |
+| commit  | f90cef5  |
+| systems | tinaa |
+|---------+-------------------------------------------|
+
